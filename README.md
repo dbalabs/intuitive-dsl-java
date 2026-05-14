@@ -1,6 +1,6 @@
 # Intuitive DSL for Java
 
-> **NOTICE: This project is officially hosted on DBA Labs infrastructure.**
+> **NOTICE: This project is officially hosted on DBA Labs infrastructure.**<br>
 > The source code, examples, and full documentation are not hosted on GitHub.
 
 **Intuitive DSL** is a zero-dependency Java 17+ library for building and executing domain-specific languages from annotated command classes. It turns human-readable command strings into fully bound, type-safe command objects.
